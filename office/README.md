@@ -2,7 +2,7 @@
 # Cara Penggunaan
 
 - Desktop terkoneksi internet
-- copy file aktivasi.bat ke directory office
+- copy file aktivasi.bat ke dalam directory office
 
 ### lokasi office
 ``cd C:\Program Files\Microsoft Office\Office16``
@@ -11,8 +11,7 @@ atau
 
 ``cd C:\Program Files (x86)\Microsoft Office\Office16``
 
-- Paste didalam directory office
-- Cek di dalam folder ada file OSPP.vbs
+- pastikan cek di dalam folder ada file OSPP.vbs
 - klik kanan aktivasi.bat, pilih "Run As Administrator"
 - Selesai
 
