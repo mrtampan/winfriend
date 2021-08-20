@@ -1,4 +1,6 @@
 
+# Cara Penggunaan
+
 - Desktop terkoneksi internet
 - copy file aktivasi.bat ke directory office
 
