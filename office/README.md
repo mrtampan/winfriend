@@ -11,7 +11,8 @@ atau
 
 ``cd C:\Program Files (x86)\Microsoft Office\Office16``
 
-- Pastikan cek di dalam folder ada file OSPP.vbs
+- Paste didalam directory office
+- Cek di dalam folder ada file OSPP.vbs
 - klik kanan aktivasi.bat, pilih "Run As Administrator"
 - Selesai
 
