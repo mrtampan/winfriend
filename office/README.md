@@ -4,7 +4,7 @@
 - Desktop terkoneksi internet
 - copy file aktivasi.bat ke directory office
 
-## lokasi office
+### lokasi office
 ``cd C:\Program Files\Microsoft Office\Office16``
 
 atau 
