@@ -24,7 +24,7 @@ if %choose%==9 set KMS_Sev=3KHY7-WNT83-DGQKR-F7HPR-844BM
 
 slmgr.vbs /upk
 slmgr.vbs /cpky
-slmgr.vbs /ipk %choose%
+slmgr.vbs /ipk %KMS_Sev%
 slmgr.vbs /skms kms7.msguides.com
 slmgr.vbs /ato
 slmgr.vbs /xpr
