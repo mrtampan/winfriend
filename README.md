@@ -1,7 +1,7 @@
 
-# KMS SaFU (Safe For yoU)
+# Windows Friend
 
-KMS Safu dibuat untuk mempermudah aktivasi produk microsoft seperti office, sistem operasi windows dan lain lain. tujuannya agar aktivasi lebih aman tanpa menggunakan aplikasi crack supaya desktop tidak terkena virus / malware. 
+Windows Friend is made to facilitate the activation of Microsoft products such as Office, Windows operating systems and others. the goal is to make activation safer without using a crack application so that the desktop is not exposed to viruses / malware.
 
 
 ## Link Download
@@ -12,7 +12,7 @@ KMS Safu dibuat untuk mempermudah aktivasi produk microsoft seperti office, sist
 [Office 2016 32 bit & 64 bit] https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img
 
 
-## Lisensi
+## Lisence
 
-Aplikasi ini tanpa lisensi jelas jelas melakukan pembajakan dilarang :v
+No Lisence
 
