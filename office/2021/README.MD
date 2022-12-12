@@ -5,7 +5,7 @@
 
 ### Step Instalasi
 - Klik kanan CMD, pilih Run As Administrator
-- kemudian ketik:
+- Kemudian ketik:
 
 ``cd %ProgramFiles%\Microsoft Office\Office16``
 
@@ -13,29 +13,30 @@ atau
 
 ``cd %ProgramFiles(x86)%\Microsoft Office\Office16``
 
-- kemudian ketik:
+- Kemudian ketik:
 
  ``for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"``
  
- <img src="https://www.bagitekno.net/wp-content/uploads/2022/04/cara-aktivasi-office-2021-9.jpg"/>
+ <img width="600" src="https://github.com/mrtampan/winfriend/blob/main/office/2021/gambar/asdadasda.png"/>
  
-- lanjut ketik:
+ 
+- Lanjut ketik:
 
 ``cscript ospp.vbs /dstatus``
 
+<img width="600" src="https://github.com/mrtampan/winfriend/blob/main/office/2021/gambar/Screenshot%202022-12-12%20232843.png"/>
+
+
 - perhatikan bagian tulisan **Last 5 characters of installed product key**, key ini akan kita gunakan untuk aktivasi
-- kemudian ketik:
+- Kemudian ketik:
 
 ``cscript ospp.vbs /unpkey:[5 karakter terakhir]``
-
-
- <img src="https://www.bagitekno.net/wp-content/uploads/2022/04/cara-aktivasi-office-2021-11.jpg"/>
 
 - Lanjut ketik serial number:
 
 ``cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH`` 
 
-- lanjut ketik:
+- Lanjut ketik:
 
 ``cscript ospp.vbs /setprt:1688``
 
@@ -43,6 +44,11 @@ atau
 
 ``cscript ospp.vbs /sethst:ms8.us.to``
 
+<img width="600" src="https://github.com/mrtampan/winfriend/blob/main/office/2021/gambar/Screenshot%202022-12-12%20232926.png"/>
+
+
 - Step terakhir ketik:
 
 ``cscript ospp.vbs /act``
+
+<img width="600" src="https://github.com/mrtampan/winfriend/blob/main/office/2021/gambar/Screenshot%202022-12-12%20232942.png"/>
